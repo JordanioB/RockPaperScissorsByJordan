@@ -3,7 +3,7 @@ Console game 'Rock Paper Scissors' by Jordan
 
 One Click Demo:
 
-[<img alt='Play Button' src='htpps://user-image.gitgithubusercontent.com/85368212/167706726-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.pn' />](https://https://replit.com/@JordanioB/RockPaperScissors#main.py)
+[<img alt='Play Button' src='htpps://user-image.gitgithubusercontent.com/85368212/167706726-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.pn' />](https://replit.com/@JordanioB/RockPaperScissors#main.py)
 
 • Project title (should answer the question "What's inside this project)
 
